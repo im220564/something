@@ -1,1 +1,1 @@
-Hello World!
+message.channel.send("Hi")
